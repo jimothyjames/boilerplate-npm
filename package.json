@@ -1,5 +1,6 @@
 {
 	"author": "jimothyjames",
+	"description": "an app purely to practice using github and complete FCC challenges",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
